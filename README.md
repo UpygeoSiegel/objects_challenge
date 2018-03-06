@@ -1,0 +1,2 @@
+<h1>Objects Challenge</h1>
+<p>Create a game that asks a user 5 true or false questions. Every time the user gets a question correct, their score should go up by a certain number of points and be DISPLAYED ON THE PAGE. If the user gets the question wrong, their score should go down by a certain number of points. If the user gets ALL FIVE QUESTIONS correct, the game should say "You Won!" to the user. If they get less than all the questions correct, it should say "You lose!"</p>
